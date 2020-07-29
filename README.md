@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://img.shields.io/twitter/follow/importclara?label=Follow%20me%20on%20twitter&style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/importclara?label=Follow%20me%20on%20twitter&style=social)
 
 
 - 🔭 I’m currently working on [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer for a mobile project
