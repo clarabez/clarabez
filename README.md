@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/importclara?label=Follow%20me%20on%20twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/importclara?label=Follow%20me%20on%20twitter&style=social)&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-clara-bezerra/)
 
 
