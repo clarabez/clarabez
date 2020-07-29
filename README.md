@@ -12,4 +12,4 @@
 - 💬 Ask me about software testing and software automation
 - 📫 How to reach me: [@importclara](https://twitter.com/importclara)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love video game and soccer!
+- ⚡ Fun fact: I love video game, soccer, biking and running!
