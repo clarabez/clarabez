@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/importclara?label=Follow%20me%20on%20twitter&style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-clara-bezerra/)
 
 
 - 🔭 I’m currently working on [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer for a mobile project
