@@ -1,3 +1,8 @@
+## Hi there 👋
+
+https://img.shields.io/twitter/follow/importclara?style=social
+
+
 - 🔭 I’m currently working on [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer for a mobile project
 - ✨ I am currently working with Python, Pytest, UIAutomator, "requests" lib for API automation
 - 📚 I have a master degree in Computer Science
