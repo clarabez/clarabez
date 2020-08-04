@@ -1,17 +1,22 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer for a mobile project
-- ✨ I am currently working with Python, Pytest, UIAutomator, "requests" lib for API automation, Jenkins.
-- 📚 I have a master degree in Computer Science
-- 🌱 I’m currently learning Kotlin and JS for automation
-- 👯 I’m looking to collaborate on open-source
-- 💬 Ask me about software testing and software automation
-- 😄 Pronouns: She/Her
-- 🤘 Hobbies: cooking, biking, running, reading, ps4.
-- ⚡ Fun fact: I love video game, soccer, biking and running!
+- 🔭 I’m currently working on [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer.
+- ✨ I am currently working with Python, Pytest, UIAutomator, "requests" lib for API automation, Jenkins, JIRA and others stuff.
+- 📚 I have a master degree in Computer Science.
+- 🌱 I’m currently learning Kotlin for mobile development and JS for automation.
+- 👯 I’m looking to collaborate on open-source.
+- 💬 Ask me about software testing and software automation.
+- 😄 Pronouns: She/Her.
+- 🤘 Hobbies: ps4, cooking, running, biking, reading.
+<!--- - ⚡ Fun fact: !>
+-->
 
-## 📫 How to reach me:
+## 📫 Get in touch:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/importclara?label=Follow%20me%20on%20twitter&style=social)
+- Twitter: [@importclara](https://twitter.com/importclara)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-clara-bezerra/)
+- LinkedIn: [@maria-clara-bezerra](https://www.linkedin.com/in/maria-clara-bezerra/)
+
+- E-mail: clarinhab@gmail.com
+
+- Instagram: @bezerra.mariaclara
