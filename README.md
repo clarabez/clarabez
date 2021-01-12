@@ -15,7 +15,7 @@
 
 ## 📫 Get in touch:
 
-- Personal website [www.mariaclara.dev](www.mariaclara.dev)
+- Personal website [www.mariaclara.dev](https://www.mariaclara.dev)
 - Twitter: [@importclara](https://twitter.com/importclara)
 - LinkedIn: [@maria-clara-bezerra](https://www.linkedin.com/in/maria-clara-bezerra/)
 - E-mail: clarinhab@gmail.com
