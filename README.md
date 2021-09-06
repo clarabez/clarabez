@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer.
+- 🔭 I’m currently working at [Red Hat](http://www.redhat.com/) as Quality Engineer @ Insights Team.
 - 📚 I have a master degree in Computer Science - performance and dependability evaluation for critical systems.
-- 👩‍💻 +5 years of experience with software testing for mobile projects (Motorola and Samsung).
+- 👩‍💻 +6 years of experience with software testing for mobile projects (Motorola and Samsung).
 - ✨ I am currently working with Python, Pytest, UIAutomator, "requests" lib for API automation, Jenkins, JIRA and others stuff.
 - 👩‍🏫 I am also professor at [CESAR School](https://www.cesar.school/) teaching post-graduate classes about software testing automation.
 - 🌱 I’m always trying to be a better person and a better professional.
