@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=clarabez)
 
 - 🔭 I’m currently working at [Red Hat](http://www.redhat.com/) as Quality Engineer @ Insights Team. Here I mainly work with Python, Pytest, Ansible, Jenkins, GitLab and Linux.
 - 📚 I have a master's degree in Computer Science from [CIn](https://portal.cin.ufpe.br/) - performance and dependability evaluation for critical systems.
@@ -18,7 +19,5 @@
 
 ![Maria Clara's github stats](https://github-readme-stats.vercel.app/api?username=clarabez&show_icons=true&theme=radical)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabez&hide=html&layout=compact&theme=buefy" /> 
-
-![](https://komarev.com/ghpvc/?username=clarabez&color=blue&style=flat
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabez&hide=html&layout=compact&theme=buefy" />
 
