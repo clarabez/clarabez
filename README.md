@@ -14,4 +14,5 @@
 - LinkedIn: [@maria-clara-bezerra](https://www.linkedin.com/in/maria-clara-bezerra/)
 - E-mail: clarinhab@gmail.com
 
+
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabez&hide=html&layout=compact&theme=buefy" />  
