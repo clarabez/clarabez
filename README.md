@@ -17,3 +17,4 @@
 
 
 ![Maria Clara's github stats](https://github-readme-stats.vercel.app/api?username=clarabez&show_icons=true&theme=radical)
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabez&hide=html&layout=compact&theme=buefy" />  
