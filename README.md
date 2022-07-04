@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at [Red Hat](http://www.redhat.com/) as Quality Engineer @ Insights Team.
-- 📚 I have a master degree in Computer Science - performance and dependability evaluation for critical systems.
-- 👩‍💻 +6 years of experience with software testing for mobile projects (Motorola and Samsung).
+- 🔭 I’m currently working at [Red Hat](http://www.redhat.com/) as Quality Engineer @ Insights Team. Here I mainly work with Python, Pytest, Ansible, Jenkins, GitLab and Linux.
+- 📚 I have a master's degree in Computer Science from [CIn](https://portal.cin.ufpe.br/) - performance and dependability evaluation for critical systems.
+- 📚 I have a bachelor's degree in Information System from [UPE](http://www.upe.br/);
+- 👩‍💻 +7 years of experience with software quality. 5 of them with mobile projects (Motorola and Samsung).
 - 👯 I’m looking to collaborate on open-source.
 - 💬 Ask me about software testing and software automation.
 - 😄 Pronouns: She/Her.
