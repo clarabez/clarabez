@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at [Netflix](http://www.netflix.com/) as Device Reliability Engineer (DRE). Here I monitor alerts to identify potential issues for Netflix Application on devices.
+- 🔭 I’m currently working at [Netflix](http://www.netflix.com/) as Device Reliability Engineer (DRE). Here I monitor/create/mantain alerts to identify potential issues for Netflix Application on devices.
 - 🔙 Previously, I worked at [Red Hat](http://www.redhat.com/) as Quality Engineer @ Insights Team. Here I worked mainly with Python, Pytest, [Ansible](https://www.ansible.com/), [OpenStack](https://www.openstack.org/), [OpenShift](https://docs.openshift.com/), Jenkins, GitLab, Linux, AWS, Azure and GCP.
 - 📚 I have a master's degree in Computer Science from [CIn](https://portal.cin.ufpe.br/) - performance and dependability evaluation for critical systems.
 - 📚 I have a bachelor's degree in Information System from [UPE](http://www.upe.br/);
